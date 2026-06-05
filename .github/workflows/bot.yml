@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = "توکن_جدید_کامل"
+TOKEN = "8902701930:AAGvfU8HwnRIY6KFABZqy6bOc8qH2zaWx8M"
 CHAT_ID = "436233523"
 
 def send(msg):
